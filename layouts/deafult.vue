@@ -9,7 +9,7 @@
         </main>
         
         <footer>
-            <footer-component></footer-component>
+          <footer-components></footer-components>
         </footer>
     </div>
     
